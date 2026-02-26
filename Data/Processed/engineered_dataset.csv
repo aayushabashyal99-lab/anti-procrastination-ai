@@ -1,0 +1,519 @@
+timestamp,app_name,window_title,category,time_spent_sec,idle_time_sec,hour,day_of_week,is_weekend,label,prev_app,app_switch,is_night,is_distraction,is_study,distraction_streak,study_streak
+2026-02-26 22:42:38.180367,code.exe,tracker.py - project1 - Visual Studio Code,study,15.05,0.0,22,3,0,,,1,1,False,True,0,1
+2026-02-26 22:42:43.186459,explorer.exe,,other,5.01,0.0,22,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 22:42:48.198518,code.exe,tracker.py - project1 - Visual Studio Code,study,5.01,0.03,22,3,0,,explorer.exe,1,1,False,True,0,1
+2026-02-26 22:43:18.212454,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,30.01,0.0,22,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 22:43:23.216170,code.exe,tracker.py - project1 - Visual Studio Code,study,5.0,0.44,22,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 22:43:48.228756,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,25.01,0.0,22,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 22:43:53.233785,snippingtool.exe,Snipping Tool Overlay,other,5.01,0.34,22,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 22:43:58.242935,snippingtool.exe,Snipping Tool,other,5.01,0.33,22,3,0,,snippingtool.exe,0,1,True,False,2,0
+2026-02-26 22:44:08.254776,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.08,22,3,0,,snippingtool.exe,1,1,True,False,3,0
+2026-02-26 22:44:13.262136,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.88,22,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 22:44:23.272421,chrome.exe,Instagram • Messages - Google Chrome,browser,10.01,0.12,22,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 22:46:23.299229,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,120.03,0.38,22,3,0,,chrome.exe,0,1,True,False,6,0
+2026-02-26 22:46:53.310363,chrome.exe,Instagram - Google Chrome,browser,30.01,2.16,22,3,0,,chrome.exe,0,1,True,False,7,0
+2026-02-26 22:47:43.332757,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,50.02,0.0,22,3,0,,chrome.exe,0,1,True,False,8,0
+2026-02-26 22:47:48.341789,chrome.exe,Instagram - Google Chrome,browser,5.01,0.47,22,3,0,,chrome.exe,0,1,True,False,9,0
+2026-02-26 22:47:53.351024,explorer.exe,,other,5.01,0.0,22,3,0,,chrome.exe,1,1,True,False,10,0
+2026-02-26 22:50:03.430419,chrome.exe,Instagram - Google Chrome,browser,130.08,0.05,22,3,0,,explorer.exe,1,1,True,False,11,0
+2026-02-26 22:50:13.480752,whatsapp.root.exe,WhatsApp,other,10.05,0.09,22,3,0,,chrome.exe,1,1,True,False,12,0
+2026-02-26 22:50:18.488343,chrome.exe,Instagram - Google Chrome,browser,5.01,0.0,22,3,0,,whatsapp.root.exe,1,1,True,False,13,0
+2026-02-26 22:50:58.505008,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,40.02,0.0,22,3,0,,chrome.exe,0,1,True,False,14,0
+2026-02-26 22:51:03.511819,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.61,22,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 22:51:48.533384,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,45.02,0.01,22,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 22:53:13.564578,chrome.exe,Instagram - Google Chrome,browser,85.03,1.03,22,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 22:53:33.577203,whatsapp.root.exe,WhatsApp,other,20.01,0.02,22,3,0,,chrome.exe,1,1,True,False,3,0
+2026-02-26 22:53:53.586615,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.06,22,3,0,,whatsapp.root.exe,1,1,True,False,4,0
+2026-02-26 22:54:03.595518,chrome.exe,what do you mean by idle time - Google Search - Google Chrome,browser,10.01,1.47,22,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 22:54:13.611527,chrome.exe,having no interest is good - Google Search - Google Chrome,browser,10.02,0.11,22,3,0,,chrome.exe,0,1,True,False,6,0
+2026-02-26 22:56:48.647603,chrome.exe,Instagram - Google Chrome,browser,155.04,0.0,22,3,0,,chrome.exe,0,1,True,False,7,0
+2026-02-26 22:57:58.667303,chrome.exe,(1) Instagram - Google Chrome,browser,70.02,0.0,22,3,0,,chrome.exe,0,1,True,False,8,0
+2026-02-26 22:58:08.675992,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.0,22,3,0,,chrome.exe,0,1,True,False,9,0
+2026-02-26 22:58:13.690947,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.02,0.0,22,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 22:58:28.702996,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.0,22,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 22:58:33.709683,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.0,22,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 22:58:43.717144,code.exe,scoring.py - project1 - Visual Studio Code,study,10.01,0.0,22,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 22:58:48.723360,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.0,22,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 22:58:58.728099,code.exe,● scoring.py - project1 - Visual Studio Code,study,10.0,0.0,22,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 22:59:03.734231,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.01,22,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 22:59:18.741570,code.exe,● scoring.py - project1 - Visual Studio Code,study,15.01,0.31,22,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:00:53.819037,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,95.08,0.12,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:00:58.828487,explorer.exe,,other,5.01,0.03,23,3,0,,chrome.exe,1,1,True,False,2,0
+2026-02-26 23:01:08.836631,chrome.exe,Instagram • Messages - Google Chrome,browser,10.01,0.02,23,3,0,,explorer.exe,1,1,True,False,3,0
+2026-02-26 23:01:13.854161,chrome.exe,Instagram - Google Chrome,browser,5.02,0.0,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:01:38.870363,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.02,0.3,23,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 23:01:43.881406,explorer.exe,,other,5.01,0.02,23,3,0,,chrome.exe,1,1,True,False,6,0
+2026-02-26 23:01:48.891660,code.exe,Welcome - Visual Studio Code,study,5.01,0.0,23,3,0,,explorer.exe,1,1,False,True,0,1
+2026-02-26 23:01:58.895649,code.exe,Open Folder,study,10.0,0.28,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:02:08.899171,code.exe,● scoring.py - project1 - Visual Studio Code,study,10.0,0.0,23,3,0,,code.exe,0,1,False,True,0,3
+2026-02-26 23:02:13.903288,code.exe,Welcome - Visual Studio Code,study,5.0,0.01,23,3,0,,code.exe,0,1,False,True,0,4
+2026-02-26 23:02:18.907309,code.exe,Open Folder,study,5.0,0.0,23,3,0,,code.exe,0,1,False,True,0,5
+2026-02-26 23:02:48.924570,code.exe,● scoring.py - project1 - Visual Studio Code,study,30.02,0.17,23,3,0,,code.exe,0,1,False,True,0,6
+2026-02-26 23:03:03.934505,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,15.01,0.01,23,3,0,,code.exe,0,1,False,True,0,7
+2026-02-26 23:03:18.946262,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.09,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:04:48.965943,chrome.exe,Instagram - Google Chrome,browser,90.02,0.0,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:05:58.982364,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,70.02,0.09,23,3,0,,chrome.exe,0,1,True,False,3,0
+2026-02-26 23:06:03.991713,chrome.exe,Instagram - Google Chrome,browser,5.01,1.92,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:06:08.996299,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.0,3.86,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:06:59.016748,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,50.02,0.02,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:07:29.064161,whatsapp.root.exe,WhatsApp,other,30.05,0.01,23,3,0,,chrome.exe,1,1,True,False,2,0
+2026-02-26 23:07:34.082351,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.02,0.61,23,3,0,,whatsapp.root.exe,1,1,True,False,3,0
+2026-02-26 23:07:39.089066,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:07:54.098573,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.05,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:08:14.113782,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,20.02,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:08:19.122471,snippingtool.exe,Snipping Tool Overlay,other,5.01,0.02,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:08:24.129463,snippingtool.exe,Snipping Tool,other,5.01,0.06,23,3,0,,snippingtool.exe,0,1,True,False,2,0
+2026-02-26 23:08:34.139587,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.31,23,3,0,,snippingtool.exe,1,1,True,False,3,0
+2026-02-26 23:09:14.156875,chrome.exe,Instagram - Google Chrome,browser,40.02,0.0,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:09:19.166095,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.2,23,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 23:09:24.175207,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.62,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:09:39.182870,code.exe,● scoring.py - project1 - Visual Studio Code,study,15.01,0.11,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:10:04.194028,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:10:09.198292,code.exe,● scoring.py - project1 - Visual Studio Code,study,5.0,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:10:14.212186,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.09,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:10:19.221955,whatsapp.root.exe,WhatsApp,other,5.01,3.41,23,3,0,,chrome.exe,1,1,True,False,2,0
+2026-02-26 23:10:44.240249,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.02,0.09,23,3,0,,whatsapp.root.exe,1,1,True,False,3,0
+2026-02-26 23:10:54.245833,code.exe,● scoring.py - project1 - Visual Studio Code,study,10.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:11:14.253376,code.exe,scoring.py - project1 - Visual Studio Code,study,20.01,0.06,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:11:19.258691,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:11:29.263004,whatsapp.root.exe,WhatsApp,other,10.0,3.23,23,3,0,,chrome.exe,1,1,True,False,2,0
+2026-02-26 23:12:14.274458,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,45.01,0.83,23,3,0,,whatsapp.root.exe,1,1,True,False,3,0
+2026-02-26 23:12:19.281074,chrome.exe,(1) Instagram - Google Chrome,browser,5.01,0.03,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:12:29.289286,chrome.exe,Instagram • Messages - Google Chrome,browser,10.01,0.0,23,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 23:13:04.300951,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,35.01,0.08,23,3,0,,chrome.exe,0,1,True,False,6,0
+2026-02-26 23:13:09.309420,chrome.exe,Instagram - Google Chrome,browser,5.01,0.39,23,3,0,,chrome.exe,0,1,True,False,7,0
+2026-02-26 23:13:54.323101,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,45.01,0.0,23,3,0,,chrome.exe,0,1,True,False,8,0
+2026-02-26 23:15:39.341547,chrome.exe,Instagram - Google Chrome,browser,105.02,28.16,23,3,0,,chrome.exe,0,1,True,False,9,0
+2026-02-26 23:15:54.349194,chrome.exe,(1) Instagram - Google Chrome,browser,15.01,0.0,23,3,0,,chrome.exe,0,1,True,False,10,0
+2026-02-26 23:16:34.360849,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,40.01,0.01,23,3,0,,chrome.exe,0,1,True,False,11,0
+2026-02-26 23:16:44.364696,code.exe,scoring.py - project1 - Visual Studio Code,study,10.0,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:16:49.369854,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.58,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:16:54.375326,code.exe,scoring.py - project1 - Visual Studio Code,study,5.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:17:04.381710,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.2,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:17:09.388029,code.exe,● train_model.py - project1 - Visual Studio Code,study,5.01,0.02,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:17:14.395090,code.exe,train_model.py - project1 - Visual Studio Code,study,5.01,0.0,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:17:19.400447,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.03,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:17:24.404180,code.exe,train_model.py - project1 - Visual Studio Code,study,5.0,0.38,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:17:29.409850,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.27,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:17:44.414930,code.exe,train_model.py - project1 - Visual Studio Code,study,15.01,0.11,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:17:59.423838,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:18:04.429283,chrome.exe,(1) Instagram - Google Chrome,browser,5.01,0.12,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:18:49.443187,chrome.exe,Instagram - Google Chrome,browser,45.01,5.98,23,3,0,,chrome.exe,0,1,True,False,3,0
+2026-02-26 23:19:09.452827,chrome.exe,(1) Instagram - Google Chrome,browser,20.01,0.12,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:19:24.461264,chrome.exe,Instagram - Google Chrome,browser,15.01,0.89,23,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 23:19:44.470553,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,1.08,23,3,0,,chrome.exe,0,1,True,False,6,0
+2026-02-26 23:19:59.478722,chrome.exe,Instagram - Google Chrome,browser,15.01,0.0,23,3,0,,chrome.exe,0,1,True,False,7,0
+2026-02-26 23:20:29.485764,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,30.01,0.01,23,3,0,,chrome.exe,0,1,True,False,8,0
+2026-02-26 23:20:34.488894,code.exe,train_model.py - project1 - Visual Studio Code,study,5.0,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:20:39.492739,code.exe,predict.py - project1 - Visual Studio Code,study,5.0,0.08,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:20:44.501340,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.31,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:20:49.506186,code.exe,● predict.py - project1 - Visual Studio Code,study,5.0,0.5,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:20:54.512897,code.exe,predict.py - project1 - Visual Studio Code,study,5.01,0.02,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:20:59.522067,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:21:04.524910,code.exe,predict.py - project1 - Visual Studio Code,study,5.0,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:21:39.534014,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,35.01,0.31,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:21:54.541871,code.exe,predict.py - project1 - Visual Studio Code,study,15.01,0.66,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:22:04.548890,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:22:14.556870,chrome.exe,Instagram • Messages - Google Chrome,browser,10.01,0.31,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:22:29.564099,chrome.exe,New Tab - Google Chrome,browser,15.01,0.0,23,3,0,,chrome.exe,0,1,True,False,3,0
+2026-02-26 23:22:39.570763,chrome.exe,is the girl friend is romantic movie - Google Search - Google Chrome,browser,10.01,3.31,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:22:49.577440,chrome.exe,is the girlfriend and there ishq mein is romantic movie - Google Search - Google Chrome,browser,10.01,0.03,23,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 23:22:54.582738,chrome.exe,is the girlfriend and tere ishq mein is romantic movie - Google Search - Google Chrome,browser,5.01,1.28,23,3,0,,chrome.exe,0,1,True,False,6,0
+2026-02-26 23:23:04.590301,chrome.exe,is the girlfriend and tere ishq mein is romantic movie provide in english - Google Search - Google Chrome,browser,10.01,0.11,23,3,0,,chrome.exe,0,1,True,False,7,0
+2026-02-26 23:23:39.604286,chrome.exe,Instagram • Messages - Google Chrome,browser,35.01,0.03,23,3,0,,chrome.exe,0,1,True,False,8,0
+2026-02-26 23:25:09.633457,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,90.03,0.77,23,3,0,,chrome.exe,0,1,True,False,9,0
+2026-02-26 23:26:19.652323,chrome.exe,Instagram - Google Chrome,browser,70.02,0.0,23,3,0,,chrome.exe,0,1,True,False,10,0
+2026-02-26 23:26:34.660932,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.23,23,3,0,,chrome.exe,0,1,True,False,11,0
+2026-02-26 23:26:39.665570,code.exe,predict.py - project1 - Visual Studio Code,study,5.0,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:26:44.668845,code.exe,alert.py - project1 - Visual Studio Code,study,5.0,0.08,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:26:54.674243,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.34,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:26:59.681899,code.exe,alert.py - project1 - Visual Studio Code,study,5.01,1.02,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:27:44.703935,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,45.02,0.5,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:27:49.709220,chrome.exe,Instagram - Google Chrome,browser,5.01,0.0,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:28:19.720648,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,30.01,0.0,23,3,0,,chrome.exe,0,1,True,False,3,0
+2026-02-26 23:28:34.725235,code.exe,alert.py - project1 - Visual Studio Code,study,15.0,0.88,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:28:59.735508,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:29:04.738386,code.exe,alert.py - project1 - Visual Studio Code,study,5.0,0.05,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:30:04.751337,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,60.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:30:29.756118,code.exe,alert.py - project1 - Visual Studio Code,study,25.0,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:30:34.760279,chrome.exe,(1) Instagram - Google Chrome,browser,5.0,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:30:39.764578,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.0,0.0,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:30:54.773686,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.0,23,3,0,,chrome.exe,0,1,True,False,3,0
+2026-02-26 23:31:19.783157,code.exe,alert.py - project1 - Visual Studio Code,study,25.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:31:24.788108,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.48,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:31:29.794632,code.exe,alert.py - project1 - Visual Studio Code,study,5.01,0.02,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:31:34.802045,python.exe,Procrastination Alert ⚠️,other,5.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:31:39.806315,code.exe,alert.py - project1 - Visual Studio Code,study,5.0,0.09,23,3,0,,python.exe,1,1,False,True,0,1
+2026-02-26 23:31:49.811921,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.01,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:31:54.815346,code.exe,alert.py - project1 - Visual Studio Code,study,5.0,2.31,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:31:59.821172,python.exe,Procrastination Alert ⚠️,other,5.01,0.08,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:32:04.824774,snippingtool.exe,Snipping Tool,other,5.0,0.02,23,3,0,,python.exe,1,1,True,False,2,0
+2026-02-26 23:32:19.830492,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.0,23,3,0,,snippingtool.exe,1,1,True,False,3,0
+2026-02-26 23:32:44.838795,chrome.exe,Instagram • Messages - Google Chrome,browser,25.01,0.5,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:35:14.864603,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,150.03,0.0,23,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 23:35:44.874542,chrome.exe,Instagram - Google Chrome,browser,30.01,0.06,23,3,0,,chrome.exe,0,1,True,False,6,0
+2026-02-26 23:39:59.928707,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,255.05,1.24,23,3,0,,chrome.exe,0,1,True,False,7,0
+2026-02-26 23:40:04.934701,chrome.exe,Instagram - Google Chrome,browser,5.01,0.09,23,3,0,,chrome.exe,0,1,True,False,8,0
+2026-02-26 23:40:34.945230,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,30.01,0.17,23,3,0,,chrome.exe,0,1,True,False,9,0
+2026-02-26 23:40:39.951360,python.exe,Procrastination Alert ⚠️,other,5.01,0.08,23,3,0,,chrome.exe,1,1,True,False,10,0
+2026-02-26 23:41:14.962457,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,35.01,0.0,23,3,0,,python.exe,1,1,True,False,11,0
+2026-02-26 23:41:19.965212,code.exe,alert.py - project1 - Visual Studio Code,study,5.0,0.02,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:41:24.972195,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.52,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:41:29.977933,code.exe,alert.py - project1 - Visual Studio Code,study,5.01,0.05,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:41:34.982907,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.01,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:41:44.988737,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,10.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:41:49.992864,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.77,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:41:59.997029,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,10.0,0.02,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:42:20.005728,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.02,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:42:50.012146,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,30.01,0.12,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:42:55.017869,chrome.exe,New Tab - Google Chrome,browser,5.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:43:00.035290,chrome.exe,ChatGPT - Google Chrome,browser,5.02,0.0,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:43:05.040009,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,5.0,1.16,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:43:25.046467,code.exe,● smart_blocker.py - project1 - Visual Studio Code,study,20.01,0.7,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:43:45.050839,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,20.0,0.0,23,3,0,,code.exe,0,1,False,True,0,3
+2026-02-26 23:43:50.054535,chrome.exe,Google Chrome,browser,5.0,0.12,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:43:55.060983,chrome.exe,Restore pages?,browser,5.01,0.01,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:44:00.069280,chrome.exe,ChatGPT - Google Chrome,browser,5.01,2.8,23,3,0,,chrome.exe,0,1,True,False,3,0
+2026-02-26 23:44:10.085780,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.02,0.05,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:44:15.100754,explorer.exe,,other,5.01,0.0,23,3,0,,chrome.exe,1,1,True,False,5,0
+2026-02-26 23:44:20.109566,chrome.exe,New Tab - Google Chrome,browser,5.01,0.0,23,3,0,,explorer.exe,1,1,True,False,6,0
+2026-02-26 23:44:30.114072,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,10.0,0.12,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:44:45.117645,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,15.0,0.55,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:45:00.123775,applicationframehost.exe,Camera,other,15.01,0.73,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:45:05.129705,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.23,23,3,0,,applicationframehost.exe,1,1,False,True,0,1
+2026-02-26 23:45:10.136376,code.exe,alert.py - project1 - Visual Studio Code,study,5.01,0.06,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:45:15.141598,chrome.exe,New Tab - Google Chrome,browser,5.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:45:20.150235,chrome.exe,ChatGPT - Google Chrome,browser,5.01,0.0,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:45:35.157039,code.exe,alert.py - project1 - Visual Studio Code,study,15.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:45:40.160896,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.0,0.44,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:45:45.166368,chrome.exe,New Tab - Google Chrome,browser,5.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:45:50.172817,chrome.exe,ChatGPT - Google Chrome,browser,5.01,0.25,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:46:00.177078,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,10.0,0.03,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:46:05.181425,python.exe,Procrastination Alert ⚠️,other,5.0,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:46:20.185602,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,15.0,0.01,23,3,0,,python.exe,1,1,False,True,0,1
+2026-02-26 23:46:25.190938,chrome.exe,New Tab - Google Chrome,browser,5.01,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:46:30.198817,chrome.exe,ChatGPT - Google Chrome,browser,5.01,1.28,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:47:05.209016,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,35.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:47:10.216380,chrome.exe,Google Chrome,browser,5.01,3.75,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:48:00.229847,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,50.01,0.05,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:48:05.234706,chrome.exe,Google Chrome,browser,5.0,0.66,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:48:10.240492,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.0,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:48:15.245356,chrome.exe,New Tab - Google Chrome,browser,5.0,0.0,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:48:20.250899,chrome.exe,ChatGPT - Google Chrome,browser,5.01,0.0,23,3,0,,chrome.exe,0,1,True,False,2,0
+2026-02-26 23:50:25.286347,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,125.04,0.0,23,3,0,,chrome.exe,0,1,True,False,3,0
+2026-02-26 23:50:30.292867,chrome.exe,New Tab - Google Chrome,browser,5.01,0.25,23,3,0,,chrome.exe,0,1,True,False,4,0
+2026-02-26 23:50:35.300884,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,3.88,23,3,0,,chrome.exe,0,1,True,False,5,0
+2026-02-26 23:50:40.306789,chrome.exe,Instagram • Messages - Google Chrome,browser,5.01,0.02,23,3,0,,chrome.exe,0,1,True,False,6,0
+2026-02-26 23:50:50.312484,chrome.exe,Instagram - Google Chrome,browser,10.01,0.01,23,3,0,,chrome.exe,0,1,True,False,7,0
+2026-02-26 23:51:45.325656,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,55.01,0.34,23,3,0,,chrome.exe,0,1,True,False,8,0
+2026-02-26 23:51:50.330619,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.0,0.14,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:51:55.336974,code.exe,● smart_blocker.py - project1 - Visual Studio Code,study,5.01,0.17,23,3,0,,code.exe,0,1,False,True,0,2
+2026-02-26 23:52:05.350985,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.09,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:52:45.361622,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,40.01,0.09,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:54:45.390360,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,120.03,0.02,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:54:55.396918,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,10.01,0.67,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:55:00.404075,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.01,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:55:25.409712,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,25.01,0.01,23,3,0,,chrome.exe,1,1,False,True,0,1
+2026-02-26 23:55:30.412914,snippingtool.exe,Snipping Tool Overlay,other,5.0,0.01,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-26 23:55:35.416751,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,5.0,0.0,23,3,0,,snippingtool.exe,1,1,False,True,0,1
+2026-02-26 23:55:40.421318,snippingtool.exe,Snipping Tool Overlay,other,5.0,0.11,23,3,0,,code.exe,1,1,True,False,1,0
+2026-02-27 00:35:14.357420,code.exe,tracker.py - project1 - Visual Studio Code,study,5.0,0.01,0,4,0,,snippingtool.exe,1,1,False,True,0,1
+2026-02-27 00:35:24.389314,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,10.03,0.02,0,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 00:35:54.421458,chrome.exe,Instagram - Google Chrome,browser,30.03,0.0,0,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 00:35:59.427511,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.11,0,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 00:39:14.469710,chrome.exe,Instagram - Google Chrome,browser,195.04,8.59,0,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 00:40:24.497510,chrome.exe,(1) Instagram - Google Chrome,browser,70.03,0.02,0,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 00:40:59.516374,chrome.exe,Instagram - Google Chrome,browser,35.02,0.02,0,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 00:41:19.528690,chrome.exe,(1) Instagram - Google Chrome,browser,20.01,0.03,0,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 00:42:14.545164,chrome.exe,Instagram - Google Chrome,browser,55.02,0.17,0,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 00:42:19.553140,chrome.exe,(1) Instagram - Google Chrome,browser,5.01,0.0,0,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 00:43:04.566809,chrome.exe,Instagram - Google Chrome,browser,45.01,0.0,0,4,0,,chrome.exe,0,1,True,False,7,0
+2026-02-27 00:45:39.674034,chrome.exe,Stories • Instagram - Google Chrome,browser,155.11,0.0,0,4,0,,chrome.exe,0,1,True,False,8,0
+2026-02-27 00:45:49.685931,chrome.exe,Instagram - Google Chrome,browser,10.01,0.33,0,4,0,,chrome.exe,0,1,True,False,9,0
+2026-02-27 00:46:04.693655,chrome.exe,New Tab - Google Chrome,browser,15.01,4.72,0,4,0,,chrome.exe,0,1,True,False,10,0
+2026-02-27 00:46:14.702477,chrome.exe,difference between meditation and medication - Google Search - Google Chrome,browser,10.01,0.09,0,4,0,,chrome.exe,0,1,True,False,11,0
+2026-02-27 00:46:24.708649,chrome.exe,Instagram - Google Chrome,browser,10.01,3.92,0,4,0,,chrome.exe,0,1,True,False,12,0
+2026-02-27 01:03:14.947708,chrome.exe,Stories • Instagram - Google Chrome,browser,1010.24,0.05,1,4,0,,chrome.exe,0,1,True,False,13,0
+2026-02-27 01:03:19.955455,chrome.exe,(1) Instagram - Google Chrome,browser,5.01,0.02,1,4,0,,chrome.exe,0,1,True,False,14,0
+2026-02-27 01:05:15.000763,chrome.exe,Instagram - Google Chrome,browser,115.05,0.02,1,4,0,,chrome.exe,0,1,True,False,15,0
+2026-02-27 01:07:15.057726,chrome.exe,Stories • Instagram - Google Chrome,browser,120.06,0.19,1,4,0,,chrome.exe,0,1,True,False,16,0
+2026-02-27 01:07:45.074288,chrome.exe,Instagram - Google Chrome,browser,30.02,0.03,1,4,0,,chrome.exe,0,1,True,False,17,0
+2026-02-27 01:08:10.105421,chrome.exe,New Tab - Google Chrome,browser,25.03,0.23,1,4,0,,chrome.exe,0,1,True,False,18,0
+2026-02-27 01:08:15.123209,chrome.exe,YouTube - Google Chrome,browser,5.02,0.0,1,4,0,,chrome.exe,0,1,True,False,19,0
+2026-02-27 01:08:20.130479,chrome.exe,Instagram - Google Chrome,browser,5.01,0.09,1,4,0,,chrome.exe,0,1,True,False,20,0
+2026-02-27 01:08:25.142274,chrome.exe,New Tab - Google Chrome,browser,5.01,0.0,1,4,0,,chrome.exe,0,1,True,False,21,0
+2026-02-27 01:08:30.151094,chrome.exe,YouTube - Google Chrome,browser,5.01,0.0,1,4,0,,chrome.exe,0,1,True,False,22,0
+2026-02-27 01:08:35.174215,chrome.exe,Instagram - Google Chrome,browser,5.02,0.03,1,4,0,,chrome.exe,0,1,True,False,23,0
+2026-02-27 01:09:05.182912,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,30.01,0.01,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:09:10.188126,chrome.exe,Google Chrome,browser,5.01,1.36,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:09:45.199220,chrome.exe,ChatGPT - Google Chrome,browser,35.01,2.19,1,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 01:10:10.211503,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.11,1,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 01:10:20.215203,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,10.0,0.34,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:11:50.261595,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,90.05,0.7,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:12:15.273072,chrome.exe,Instagram - Google Chrome,browser,25.01,1.86,1,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 01:19:55.391684,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,460.12,0.0,1,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 01:23:55.443408,chrome.exe,Instagram - Google Chrome,browser,240.05,0.0,1,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 01:24:00.459739,chrome.exe,Instagram • Messages - Google Chrome,browser,5.02,0.0,1,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 01:27:50.514037,chrome.exe,Instagram - Google Chrome,browser,230.05,0.02,1,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 01:30:40.549963,chrome.exe,(1) Instagram - Google Chrome,browser,170.04,4.88,1,4,0,,chrome.exe,0,1,True,False,7,0
+2026-02-27 01:32:40.577290,chrome.exe,Instagram - Google Chrome,browser,120.03,0.16,1,4,0,,chrome.exe,0,1,True,False,8,0
+2026-02-27 01:37:05.637085,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,265.06,0.02,1,4,0,,chrome.exe,0,1,True,False,9,0
+2026-02-27 01:37:10.658283,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.02,0.0,1,4,0,,chrome.exe,0,1,True,False,10,0
+2026-02-27 01:41:35.734580,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,265.08,0.0,1,4,0,,chrome.exe,0,1,True,False,11,0
+2026-02-27 01:42:00.741264,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,25.01,0.53,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:42:05.760866,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.02,0.2,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:42:10.766756,chrome.exe,Instagram - Google Chrome,browser,5.01,0.02,1,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 01:42:15.775536,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.0,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:44:00.811628,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,105.04,0.01,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:44:10.829146,chrome.exe,Instagram - Google Chrome,browser,10.02,1.27,1,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 01:45:55.853863,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,105.02,0.06,1,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 01:46:00.864937,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.0,1,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 01:46:05.874742,chrome.exe,Instagram - Google Chrome,browser,5.01,4.0,1,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 01:46:45.900500,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,40.03,0.0,1,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 01:46:55.910234,chrome.exe,Instagram - Google Chrome,browser,10.01,1.23,1,4,0,,chrome.exe,0,1,True,False,7,0
+2026-02-27 01:47:10.923655,chrome.exe,Ishq Hai X Kabira X Ve Kamleya | 7 Mins Long Romantic Bollywood Mashup| 2025 Trending Romantic Remix - YouTube - Google Chrome,browser,15.01,0.0,1,4,0,,chrome.exe,0,1,True,False,8,0
+2026-02-27 01:50:05.976168,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,175.05,0.52,1,4,0,,chrome.exe,0,1,True,False,9,0
+2026-02-27 01:50:15.984512,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,10.01,0.01,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:50:20.993637,code.exe,feature_engineering.py - project1 - Visual Studio Code,study,5.01,0.11,1,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 01:50:41.029378,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.04,0.06,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:51:11.058217,code.exe,feature_engineering.py - project1 - Visual Studio Code,study,30.03,0.01,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:51:21.066004,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,10.01,0.12,1,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 01:51:26.074758,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.12,1,4,0,,code.exe,0,1,False,True,0,3
+2026-02-27 01:51:31.088115,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,5.01,0.0,1,4,0,,code.exe,0,1,False,True,0,4
+2026-02-27 01:51:36.104421,chrome.exe,Instagram - Google Chrome,browser,5.02,0.0,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:52:51.125595,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,75.02,0.02,1,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 01:53:16.141432,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,25.02,0.17,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:53:26.149215,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.05,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:53:41.153759,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,15.0,0.01,1,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 01:53:46.158880,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.01,0.0,1,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 01:55:31.190521,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,105.03,0.01,1,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 01:56:06.210751,chrome.exe,Instagram - Google Chrome,browser,35.02,0.02,1,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 01:56:11.222470,chrome.exe,Sanun Nahar Wale Pool Te Bulake - Lyrical | Sayonee Mera Mahi | Noor Jehan | Punjabi Ghazal - YouTube - Google Chrome,browser,5.01,0.0,1,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 01:58:16.254226,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,125.03,0.88,1,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 01:58:21.262886,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.02,1,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 02:01:56.348819,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,215.09,0.14,2,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 02:02:01.358419,explorer.exe,,other,5.01,0.01,2,4,0,,chrome.exe,1,1,True,False,7,0
+2026-02-27 02:02:06.362594,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.0,0.01,2,4,0,,explorer.exe,1,1,False,True,0,1
+2026-02-27 02:02:26.370342,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,20.01,0.02,2,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 02:02:31.375360,chrome.exe,"Surili Akhiyon Wale (Lyrics) - Rahat Fateh Ali Khan, Suzanne D'Mello - YouTube - Google Chrome",browser,5.01,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:05:31.420526,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,180.05,0.02,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:05:36.436086,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.02,0.7,2,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 02:05:41.442763,chrome.exe,Instagram • Messages - Google Chrome,browser,5.01,0.0,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:05:56.459083,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,15.02,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:06:31.471738,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,35.01,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:06:41.482018,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,10.01,1.08,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:07:41.499298,code.exe,train_model.py - project1 - Visual Studio Code,study,60.02,0.09,2,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 02:08:16.520811,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,35.02,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:32:29.314926,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,15.0,0.01,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:32:34.333526,explorer.exe,,other,5.02,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:32:39.339372,chrome.exe,Thodi Der -Full Video | Half Girlfriend | Arjun Kapoor & Shraddha Kapoor | Farhan S & Shreya Ghoshal - YouTube - Google Chrome,browser,5.01,0.12,2,4,0,,explorer.exe,1,1,True,False,2,0
+2026-02-27 02:33:04.346756,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,25.01,0.62,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:33:49.362997,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,45.02,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:33:54.367971,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.0,0.0,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:34:14.382001,chrome.exe,Instagram • Messages - Google Chrome,browser,20.01,0.0,2,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 02:35:49.525376,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,95.14,0.97,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:36:44.584751,chrome.exe,Instagram - Google Chrome,browser,55.06,0.0,2,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 02:37:19.597103,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,35.01,0.02,2,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 02:37:29.602492,code.exe,feature_engineering.py - project1 - Visual Studio Code,study,10.01,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:37:34.619789,snippingtool.exe,Snipping Tool Overlay,other,5.02,0.08,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:37:39.624706,snippingtool.exe,Snipping Tool,other,5.0,0.27,2,4,0,,snippingtool.exe,0,1,True,False,2,0
+2026-02-27 02:37:54.708886,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.08,0.23,2,4,0,,snippingtool.exe,1,1,True,False,3,0
+2026-02-27 02:39:04.729312,chrome.exe,Instagram - Google Chrome,browser,70.02,0.0,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:39:44.750248,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,40.02,0.02,2,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 02:39:54.755852,code.exe,feature_engineering.py - project1 - Visual Studio Code,study,10.01,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:40:09.764537,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.02,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:41:09.897898,code.exe,feature_engineering.py - project1 - Visual Studio Code,study,60.13,0.14,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:41:14.915047,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.02,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:41:29.923384,code.exe,feature_engineering.py - project1 - Visual Studio Code,study,15.01,0.39,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:41:44.931377,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,15.01,0.06,2,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 02:42:14.939564,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,30.01,0.09,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:42:19.945709,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.0,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:42:34.957145,chrome.exe,Instagram • Messages - Google Chrome,browser,15.01,0.0,2,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 02:42:39.964263,chrome.exe,Instagram - Google Chrome,browser,5.01,0.02,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:42:54.971798,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,15.01,0.0,2,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 02:43:19.979065,code.exe,train_model.py - project1 - Visual Studio Code,study,25.01,0.02,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:43:55.011068,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,35.03,1.42,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:44:15.024480,chrome.exe,Instagram - Google Chrome,browser,20.01,0.02,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:45:10.038043,code.exe,train_model.py - project1 - Visual Studio Code,study,55.01,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:45:15.044408,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.02,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:45:55.053953,code.exe,train_model.py - project1 - Visual Studio Code,study,40.01,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:46:00.065058,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.01,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:46:30.072421,code.exe,train_model.py - project1 - Visual Studio Code,study,30.01,0.19,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:46:35.108921,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.04,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:46:40.114274,code.exe,train_model.py - project1 - Visual Studio Code,study,5.01,0.41,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:46:45.121076,code.exe,● train_model.py - project1 - Visual Studio Code,study,5.01,0.16,2,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 02:46:50.124673,code.exe,train_model.py - project1 - Visual Studio Code,study,5.0,0.02,2,4,0,,code.exe,0,1,False,True,0,3
+2026-02-27 02:46:55.131950,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:47:25.173205,code.exe,train_model.py - project1 - Visual Studio Code,study,30.04,0.05,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:47:35.197984,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.02,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:47:40.204289,chrome.exe,(1) Instagram - Google Chrome,browser,5.01,0.02,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:48:15.227754,chrome.exe,Instagram • Messages - Google Chrome,browser,35.02,0.0,2,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 02:48:20.235057,chrome.exe,Instagram - Google Chrome,browser,5.01,0.01,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:49:00.246210,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,40.01,0.02,2,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 02:49:15.252092,code.exe,predict.py - project1 - Visual Studio Code,study,15.01,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:49:20.256763,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:49:30.261511,code.exe,predict.py - project1 - Visual Studio Code,study,10.0,0.06,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:49:35.267201,code.exe,● predict.py - project1 - Visual Studio Code,study,5.01,0.02,2,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 02:49:50.273454,code.exe,predict.py - project1 - Visual Studio Code,study,15.01,0.53,2,4,0,,code.exe,0,1,False,True,0,3
+2026-02-27 02:49:55.278709,code.exe,● predict.py - project1 - Visual Studio Code,study,5.01,0.01,2,4,0,,code.exe,0,1,False,True,0,4
+2026-02-27 02:50:05.282719,code.exe,predict.py - project1 - Visual Studio Code,study,10.0,0.0,2,4,0,,code.exe,0,1,False,True,0,5
+2026-02-27 02:50:30.289958,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:50:40.298228,code.exe,predict.py - project1 - Visual Studio Code,study,10.01,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:50:45.305445,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.16,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:51:00.328336,code.exe,predict.py - project1 - Visual Studio Code,study,15.02,0.3,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:51:10.332543,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.0,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:51:35.343481,chrome.exe,Instagram - Google Chrome,browser,25.01,0.11,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:51:40.349753,explorer.exe,,other,5.01,0.0,2,4,0,,chrome.exe,1,1,True,False,3,0
+2026-02-27 02:51:45.357465,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.01,2,4,0,,explorer.exe,1,1,True,False,4,0
+2026-02-27 02:52:20.407185,code.exe,predict.py - project1 - Visual Studio Code,study,35.05,0.0,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:52:30.423503,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.02,0.17,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:52:35.430020,explorer.exe,,other,5.01,0.06,2,4,0,,chrome.exe,1,1,True,False,2,0
+2026-02-27 02:52:55.439650,chrome.exe,Instagram • Messages - Google Chrome,browser,20.01,0.0,2,4,0,,explorer.exe,1,1,True,False,3,0
+2026-02-27 02:53:00.446899,chrome.exe,Instagram - Google Chrome,browser,5.01,0.0,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:53:05.451435,code.exe,predict.py - project1 - Visual Studio Code,study,5.0,1.66,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:53:55.465980,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,50.01,0.14,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:54:10.476999,code.exe,predict.py - project1 - Visual Studio Code,study,15.01,0.47,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:54:15.482901,code.exe,● predict.py - project1 - Visual Studio Code,study,5.01,0.01,2,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 02:54:50.512113,code.exe,predict.py - project1 - Visual Studio Code,study,35.03,0.02,2,4,0,,code.exe,0,1,False,True,0,3
+2026-02-27 02:55:00.549281,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.04,0.05,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:55:35.561431,chrome.exe,Instagram - Google Chrome,browser,35.01,0.01,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:55:40.570211,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.0,2,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 02:55:50.576725,chrome.exe,Instagram - Google Chrome,browser,10.01,0.14,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:56:25.623959,explorer.exe,,other,35.05,0.02,2,4,0,,chrome.exe,1,1,True,False,5,0
+2026-02-27 02:57:05.633658,code.exe,predict.py - project1 - Visual Studio Code,study,40.01,0.0,2,4,0,,explorer.exe,1,1,False,True,0,1
+2026-02-27 02:57:10.637689,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.12,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 02:57:15.641628,chrome.exe,Instagram - Google Chrome,browser,5.0,0.66,2,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 02:57:25.645677,chrome.exe,Instagram • Messages - Google Chrome,browser,10.0,4.45,2,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 02:57:30.654765,chrome.exe,difference between meditation and medication - Google Search - Google Chrome,browser,5.01,0.98,2,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 02:58:10.664261,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,40.01,0.0,2,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 02:58:15.667438,chrome.exe,difference between meditation and medication - Google Search - Google Chrome,browser,5.0,0.02,2,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 02:58:25.670623,chrome.exe,Instagram • Messages - Google Chrome,browser,10.0,0.02,2,4,0,,chrome.exe,0,1,True,False,7,0
+2026-02-27 02:58:50.677408,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.0,2,4,0,,chrome.exe,0,1,True,False,8,0
+2026-02-27 02:59:05.684610,code.exe,alert.py - project1 - Visual Studio Code,study,15.01,4.31,2,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 02:59:10.687698,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.0,2,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:00:20.700332,code.exe,alert.py - project1 - Visual Studio Code,study,70.01,0.02,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:00:45.705993,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:01:00.712267,chrome.exe,Instagram • Messages - Google Chrome,browser,15.01,0.81,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:01:25.719231,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,25.01,0.0,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:01:40.725506,chrome.exe,Instagram • Messages - Google Chrome,browser,15.01,0.02,3,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 03:01:45.731700,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.56,3,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 03:01:50.735194,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.0,3,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 03:02:40.744709,code.exe,alert.py - project1 - Visual Studio Code,study,50.01,2.88,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:02:45.747875,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:02:50.750947,code.exe,alert.py - project1 - Visual Studio Code,study,5.0,0.72,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:03:20.759068,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,30.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:04:00.768032,code.exe,alert.py - project1 - Visual Studio Code,study,40.01,0.08,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:04:20.773934,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:04:50.782302,chrome.exe,Instagram • Messages - Google Chrome,browser,30.01,1.03,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:05:15.792122,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,25.01,0.0,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:05:35.798532,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.02,3,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 03:07:35.817098,code.exe,alert.py - project1 - Visual Studio Code,study,120.02,0.84,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:08:30.829318,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,55.01,0.36,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:08:35.836207,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.0,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:08:50.842592,chrome.exe,Instagram • Messages - Google Chrome,browser,15.01,0.0,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:09:50.854387,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,60.01,0.17,3,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 03:09:55.859386,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.0,3,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 03:12:05.883496,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,130.02,0.11,3,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 03:12:10.888965,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.02,3,4,0,,chrome.exe,0,1,True,False,7,0
+2026-02-27 03:12:25.896377,chrome.exe,Instagram • Messages - Google Chrome,browser,15.01,0.78,3,4,0,,chrome.exe,0,1,True,False,8,0
+2026-02-27 03:14:40.919356,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,135.02,0.02,3,4,0,,chrome.exe,0,1,True,False,9,0
+2026-02-27 03:14:45.922540,code.exe,● smart_blocker.py - project1 - Visual Studio Code,study,5.0,0.02,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:14:50.926853,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:15:00.931143,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,10.0,0.0,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:15:05.934923,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.03,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:15:10.940708,explorer.exe,,other,5.01,0.2,3,4,0,,chrome.exe,1,1,True,False,2,0
+2026-02-27 03:15:30.948081,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,20.01,2.06,3,4,0,,explorer.exe,1,1,False,True,0,1
+2026-02-27 03:15:35.954294,chrome.exe,Instagram • Messages - Google Chrome,browser,5.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:15:40.958351,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,5.0,0.08,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:15:45.966985,chrome.exe,New Tab - Google Chrome,browser,5.01,1.59,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:15:50.973928,chrome.exe,YouTube - Google Chrome,browser,5.01,0.0,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:15:55.980969,chrome.exe,Navjot Ahuja - Khat (Lyrics) | Tere liye mandir jaaun - YouTube - Google Chrome,browser,5.01,0.01,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:16:05.984661,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,10.0,0.0,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:16:10.993439,chrome.exe,Google Chrome,browser,5.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:16:15.999104,chrome.exe,Instagram - Google Chrome,browser,5.01,0.0,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:16:36.006585,chrome.exe,Instagram • Messages - Google Chrome,browser,20.01,0.14,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:16:56.014703,chrome.exe,Instagram - Google Chrome,browser,20.01,0.02,3,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 03:17:01.019096,explorer.exe,Snap Assist,other,5.0,0.95,3,4,0,,chrome.exe,1,1,True,False,5,0
+2026-02-27 03:17:06.024153,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,5.01,0.16,3,4,0,,explorer.exe,1,1,False,True,0,1
+2026-02-27 03:17:11.029462,chrome.exe,New Tab - Google Chrome,browser,5.01,0.01,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:17:16.034674,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.31,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:17:31.040865,code.exe,smart_blocker.py - project1 - Visual Studio Code,study,15.01,0.2,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:17:51.046565,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.06,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:18:51.060422,chrome.exe,Instagram - Google Chrome,browser,60.01,0.0,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:19:11.067189,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.3,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:19:31.073572,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,20.01,0.09,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:20:21.081681,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,50.01,0.05,3,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 03:21:11.091776,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,50.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:21:16.098091,chrome.exe,Instagram - Google Chrome,browser,5.01,0.23,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:23:11.120786,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,115.02,0.02,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:24:01.131989,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,50.01,0.0,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:24:11.136952,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,10.0,0.66,3,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 03:25:56.156489,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,105.02,0.11,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:26:11.167308,chrome.exe,New Tab - Google Chrome,browser,15.01,1.11,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:26:26.173049,chrome.exe,what do you mean by dashboard in project - Google Search - Google Chrome,browser,15.01,0.62,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:26:31.178936,chrome.exe,Instagram • Messages - Google Chrome,browser,5.01,0.0,3,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 03:26:51.184608,chrome.exe,what do you mean by dashboard in project - Google Search - Google Chrome,browser,20.01,1.22,3,4,0,,chrome.exe,0,1,True,False,5,0
+2026-02-27 03:27:01.191607,chrome.exe,what do you mean by Streamlit - Google Search - Google Chrome,browser,10.01,0.23,3,4,0,,chrome.exe,0,1,True,False,6,0
+2026-02-27 03:27:11.197191,chrome.exe,New Tab - Google Chrome,browser,10.01,0.0,3,4,0,,chrome.exe,0,1,True,False,7,0
+2026-02-27 03:27:16.201550,chrome.exe,what is good to do streamlit or matplotlib - Google Search - Google Chrome,browser,5.0,0.0,3,4,0,,chrome.exe,0,1,True,False,8,0
+2026-02-27 03:27:41.211617,chrome.exe,what is good to do streamlit and matplotlib - Google Search - Google Chrome,browser,25.01,0.0,3,4,0,,chrome.exe,0,1,True,False,9,0
+2026-02-27 03:27:46.216164,chrome.exe,Instagram • Messages - Google Chrome,browser,5.0,0.02,3,4,0,,chrome.exe,0,1,True,False,10,0
+2026-02-27 03:27:56.220683,chrome.exe,what is good to do streamlit and matplotlib - Google Search - Google Chrome,browser,10.0,0.03,3,4,0,,chrome.exe,0,1,True,False,11,0
+2026-02-27 03:28:21.226595,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.52,3,4,0,,chrome.exe,0,1,True,False,12,0
+2026-02-27 03:29:26.236773,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,65.01,0.0,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:29:31.245713,chrome.exe,Instagram • Messages - Google Chrome,browser,5.01,0.02,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:30:06.253292,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,35.01,0.59,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:30:46.264212,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,40.01,0.02,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:30:51.268258,chrome.exe,Instagram • Messages - Google Chrome,browser,5.0,0.0,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:31:06.274044,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,15.01,0.0,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:31:36.282129,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,30.01,0.08,3,4,0,,chrome.exe,0,1,True,False,4,0
+2026-02-27 03:31:51.287611,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,15.01,0.01,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:32:41.298482,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,50.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:32:46.302066,code.exe,engineered_dataset.csv - project1 - Visual Studio Code,study,5.0,0.11,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:32:56.311415,code.exe,dashboard.py - project1 - Visual Studio Code,study,10.01,0.53,3,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 03:33:01.314498,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.67,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:33:06.325100,code.exe,● dashboard.py - project1 - Visual Studio Code,study,5.01,0.02,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:34:06.338453,code.exe,dashboard.py - project1 - Visual Studio Code,study,60.01,0.0,3,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 03:34:31.347762,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,25.01,0.02,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:35:16.359649,code.exe,dashboard.py - project1 - Visual Studio Code,study,45.01,3.3,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:35:21.364452,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,5.0,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:35:31.370891,snippingtool.exe,Snipping Tool Overlay,other,10.01,0.02,3,4,0,,msedge.exe,1,1,True,False,2,0
+2026-02-27 03:35:36.377132,snippingtool.exe,Snipping Tool,other,5.01,0.39,3,4,0,,snippingtool.exe,0,1,True,False,3,0
+2026-02-27 03:35:51.382438,code.exe,dashboard.py - project1 - Visual Studio Code,study,15.01,0.0,3,4,0,,snippingtool.exe,1,1,False,True,0,1
+2026-02-27 03:35:56.388398,explorer.exe,Snap Assist,other,5.01,0.0,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:36:01.392669,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.17,3,4,0,,explorer.exe,1,1,True,False,2,0
+2026-02-27 03:36:11.401101,code.exe,dashboard.py - project1 - Visual Studio Code,study,10.01,0.67,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:36:31.406502,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.01,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:37:11.419533,chrome.exe,Instagram • Messages - Google Chrome,browser,40.01,0.02,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:37:21.425678,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,10.01,0.02,3,4,0,,chrome.exe,0,1,True,False,3,0
+2026-02-27 03:37:46.433062,code.exe,dashboard.py - project1 - Visual Studio Code,study,25.01,0.08,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:37:51.440440,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.34,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:38:16.448032,chrome.exe,Instagram • Messages - Google Chrome,browser,25.01,0.39,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:38:36.454577,code.exe,dashboard.py - project1 - Visual Studio Code,study,20.01,5.02,3,4,0,,chrome.exe,1,1,False,True,0,1
+2026-02-27 03:39:11.466274,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,35.01,0.02,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:39:16.474852,snippingtool.exe,Snipping Tool Overlay,other,5.01,0.0,3,4,0,,msedge.exe,1,1,True,False,2,0
+2026-02-27 03:39:21.480515,snippingtool.exe,Snipping Tool,other,5.01,0.01,3,4,0,,snippingtool.exe,0,1,True,False,3,0
+2026-02-27 03:39:26.486005,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,5.01,0.17,3,4,0,,snippingtool.exe,1,1,True,False,4,0
+2026-02-27 03:39:31.490119,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.0,3,4,0,,msedge.exe,1,1,True,False,5,0
+2026-02-27 03:39:41.499282,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,10.01,0.02,3,4,0,,chrome.exe,1,1,True,False,6,0
+2026-02-27 03:39:46.504339,snippingtool.exe,Snipping Tool Overlay,other,5.01,0.02,3,4,0,,msedge.exe,1,1,True,False,7,0
+2026-02-27 03:39:51.507405,snippingtool.exe,Snipping Tool,other,5.0,0.09,3,4,0,,snippingtool.exe,0,1,True,False,8,0
+2026-02-27 03:39:56.512750,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.01,0.2,3,4,0,,snippingtool.exe,1,1,True,False,9,0
+2026-02-27 03:40:01.517873,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,5.01,0.0,3,4,0,,chrome.exe,1,1,True,False,10,0
+2026-02-27 03:40:06.522817,shellexperiencehost.exe,New notification,other,5.0,0.0,3,4,0,,msedge.exe,1,1,True,False,11,0
+2026-02-27 03:40:16.529870,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,10.01,0.0,3,4,0,,shellexperiencehost.exe,1,1,True,False,12,0
+2026-02-27 03:40:26.537869,snippingtool.exe,Snipping Tool Overlay,other,10.01,0.03,3,4,0,,msedge.exe,1,1,True,False,13,0
+2026-02-27 03:40:41.547608,snippingtool.exe,Snipping Tool,other,15.01,0.0,3,4,0,,snippingtool.exe,0,1,True,False,14,0
+2026-02-27 03:40:46.551235,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.0,3,4,0,,snippingtool.exe,1,1,True,False,15,0
+2026-02-27 03:41:01.558755,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,15.01,0.28,3,4,0,,chrome.exe,1,1,True,False,16,0
+2026-02-27 03:41:21.565622,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,20.01,0.0,3,4,0,,msedge.exe,1,1,True,False,17,0
+2026-02-27 03:41:31.580947,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,10.02,0.34,3,4,0,,chrome.exe,0,1,True,False,18,0
+2026-02-27 03:41:46.587547,chrome.exe,Instagram • Messages - Google Chrome,browser,15.01,0.16,3,4,0,,chrome.exe,0,1,True,False,19,0
+2026-02-27 03:41:51.593957,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.0,3,4,0,,chrome.exe,0,1,True,False,20,0
+2026-02-27 03:42:01.600402,msedge.exe,Streamlit - Profile 1 - Microsoft​ Edge,browser,10.01,0.0,3,4,0,,chrome.exe,1,1,True,False,21,0
+2026-02-27 03:42:06.606311,snippingtool.exe,Snipping Tool,other,5.01,0.01,3,4,0,,msedge.exe,1,1,True,False,22,0
+2026-02-27 03:42:11.612785,code.exe,dashboard.py - project1 - Visual Studio Code,study,5.01,0.0,3,4,0,,snippingtool.exe,1,1,False,True,0,1
+2026-02-27 03:42:16.616454,code.exe,activity_dataset.csv - project1 - Visual Studio Code,study,5.0,0.0,3,4,0,,code.exe,0,1,False,True,0,2
+2026-02-27 03:42:21.621118,chrome.exe,Resume-Boosting Project Ideas - Google Chrome,browser,5.0,0.02,3,4,0,,code.exe,1,1,True,False,1,0
+2026-02-27 03:42:31.626819,chrome.exe,Instagram • Messages - Google Chrome,browser,10.01,0.19,3,4,0,,chrome.exe,0,1,True,False,2,0
+2026-02-27 03:42:36.631917,chrome.exe,(1) Instagram • Messages - Google Chrome,browser,5.01,0.92,3,4,0,,chrome.exe,0,1,True,False,3,0
