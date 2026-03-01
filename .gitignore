@@ -1,3 +1,4 @@
 Data/Raw/
+Data/Processed/
 __pycache__/
 *.pyc
