@@ -1,41 +1,88 @@
 import pandas as pd
+import os
 
 print("Starting feature engineering...")
 
-DATA_FILE = "../Data/Raw/activity_dataset.csv"
+# ----------------------------
+# Paths
+# ----------------------------
 
-df = pd.read_csv(DATA_FILE)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# Convert time
-df["time_spent_sec"] = pd.to_numeric(df["time_spent_sec"], errors="coerce")
+DATA_FILE = os.path.join(BASE_DIR, "Data", "Raw", "activity_dataset.csv")
+OUTPUT_FILE = os.path.join(BASE_DIR, "Data", "processed", "engineered_dataset.csv")
 
-# App switching frequency
+# Ensure processed folder exists
+os.makedirs(os.path.join(BASE_DIR, "Data", "processed"), exist_ok=True)
+
+# ----------------------------
+# Load dataset
+# ----------------------------
+
+df = pd.read_csv(DATA_FILE, encoding="latin1", on_bad_lines="skip")
+
+# ----------------------------
+# Timestamp processing
+# ----------------------------
+
+df["timestamp"] = pd.to_datetime(df["timestamp"], errors="coerce")
+
+# Extract hour safely
+df["hour"] = df["timestamp"].dt.hour.fillna(0).astype(int)
+
+# ----------------------------
+# Numeric conversions
+# ----------------------------
+
+df["time_spent_sec"] = pd.to_numeric(df["time_spent_sec"], errors="coerce").fillna(0)
+df["idle_time_sec"] = pd.to_numeric(df["idle_time_sec"], errors="coerce").fillna(0)
+
+# ----------------------------
+# App switching feature
+# ----------------------------
+
 df["prev_app"] = df["app_name"].shift(1)
 df["app_switch"] = (df["app_name"] != df["prev_app"]).astype(int)
 
-# Night usage
+# ----------------------------
+# Night usage feature
+# ----------------------------
+
 df["is_night"] = df["hour"].apply(lambda x: 1 if x >= 22 or x <= 3 else 0)
 
-# Distraction vs study
-df["is_distraction"] = df["category"] != "study"
-df["is_study"] = df["category"] == "study"
+# ----------------------------
+# Study vs Distraction
+# ----------------------------
 
+df["is_distraction"] = (df["category"] != "study").astype(int)
+df["is_study"] = (df["category"] == "study").astype(int)
+
+# ----------------------------
 # Distraction streak
+# ----------------------------
+
 df["distraction_streak"] = (
     df["is_distraction"]
     .groupby((df["is_distraction"] != df["is_distraction"].shift()).cumsum())
     .cumsum()
 )
 
+# ----------------------------
 # Study streak
+# ----------------------------
+
 df["study_streak"] = (
     df["is_study"]
     .groupby((df["is_study"] != df["is_study"].shift()).cumsum())
     .cumsum()
 )
 
+# ----------------------------
 # Save engineered dataset
-df.to_csv("../Data/Processed/engineered_dataset.csv", index=False)
+# ----------------------------
+
+df.to_csv(OUTPUT_FILE, index=False)
 
 print("Feature engineering complete.")
-print("New file created: engineered_dataset.csv")
+print("Updated file:", OUTPUT_FILE)
+print("Total rows processed:", len(df))

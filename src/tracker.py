@@ -11,10 +11,11 @@ import os
 # CONFIG
 # ==============================
 
-DATA_FILE = "../Data/Raw/activity_dataset.csv"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_FILE = os.path.join(BASE_DIR, "Data", "Raw", "activity_dataset.csv")
+
 TRACK_INTERVAL = 5  # seconds
 
-# App category mapping (edit as needed)
 APP_CATEGORIES = {
     "chrome.exe": "browser",
     "msedge.exe": "browser",
@@ -35,10 +36,10 @@ APP_CATEGORIES = {
 # SYSTEM FUNCTIONS
 # ==============================
 
-# Get active window
 def get_active_window():
     window = win32gui.GetForegroundWindow()
     title = win32gui.GetWindowText(window)
+
     _, pid = win32process.GetWindowThreadProcessId(window)
 
     try:
@@ -50,26 +51,35 @@ def get_active_window():
     return process_name, title
 
 
-# Detect idle time (keyboard + mouse inactivity)
 class LASTINPUTINFO(ctypes.Structure):
     _fields_ = [("cbSize", ctypes.c_uint), ("dwTime", ctypes.c_uint)]
+
 
 def get_idle_duration():
     lastInputInfo = LASTINPUTINFO()
     lastInputInfo.cbSize = ctypes.sizeof(lastInputInfo)
+
     ctypes.windll.user32.GetLastInputInfo(ctypes.byref(lastInputInfo))
+
     millis = ctypes.windll.kernel32.GetTickCount() - lastInputInfo.dwTime
+
     return millis / 1000.0
 
 
-# Categorize app
 def categorize_app(app_name):
     return APP_CATEGORIES.get(app_name, "other")
 
 
-# Initialize dataset file
+# ==============================
+# DATASET
+# ==============================
+
 def initialize_dataset():
+
+    os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
+
     if not os.path.exists(DATA_FILE):
+
         df = pd.DataFrame(columns=[
             "timestamp",
             "app_name",
@@ -82,21 +92,35 @@ def initialize_dataset():
             "is_weekend",
             "label"
         ])
+
         df.to_csv(DATA_FILE, index=False)
 
+        print("Dataset created:", DATA_FILE)
 
-# Save record
+
 def save_record(record):
+
     df = pd.DataFrame([record])
-    df.to_csv(DATA_FILE, mode='a', header=False, index=False)
+
+    df.to_csv(
+        DATA_FILE,
+        mode="a",
+        header=False,
+        index=False,
+        encoding="utf-8"
+    )
+
+    print("Saved:", record)
 
 
 # ==============================
-# MAIN TRACKER
+# TRACKER
 # ==============================
 
 def run_tracker():
+
     print("Anti-Procrastination AI Tracker Started...")
+    print("Saving data to:", DATA_FILE)
     print("Press CTRL + C to stop.\n")
 
     last_app = None
@@ -104,7 +128,9 @@ def run_tracker():
     start_time = time.time()
 
     while True:
+
         app, title = get_active_window()
+
         current_time = time.time()
 
         if last_app is None:
@@ -113,22 +139,23 @@ def run_tracker():
             start_time = current_time
 
         if app != last_app or title != last_title:
+
             time_spent = current_time - start_time
             idle_time = get_idle_duration()
 
             now = datetime.now()
 
             record = {
-                "timestamp": now,
+                "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
                 "app_name": last_app,
-                "window_title": last_title,
+                "window_title": last_title.replace(",", " "),  # prevent CSV break
                 "category": categorize_app(last_app),
                 "time_spent_sec": round(time_spent, 2),
                 "idle_time_sec": round(idle_time, 2),
                 "hour": now.hour,
                 "day_of_week": now.weekday(),
                 "is_weekend": 1 if now.weekday() >= 5 else 0,
-                "label": ""  # Fill later: 0 focus, 1 procrastination
+                "label": ""
             }
 
             save_record(record)
@@ -145,8 +172,11 @@ def run_tracker():
 # ==============================
 
 if __name__ == "__main__":
+
     initialize_dataset()
+
     try:
         run_tracker()
+
     except KeyboardInterrupt:
         print("\nTracker stopped. Dataset saved.")

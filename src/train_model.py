@@ -9,7 +9,7 @@ DATA_FILE = "../Data/Processed/engineered_dataset.csv"
 
 print("Loading dataset...")
 
-df = pd.read_csv(DATA_FILE)
+df = pd.read_csv(DATA_FILE, encoding="latin1")
 
 if len(df) == 0:
     print("Dataset empty.")
